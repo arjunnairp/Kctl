@@ -1,6 +1,7 @@
 # Kctl
 
-Simple Bash to add aliases for some commonly used kubectl commands.
+v1.1
+Simple Bash to setup bash completion and then add aliases for some commonly used kubectl commands.
 
 To use this script:
 1. wget/git pull the script > wget https://raw.githubusercontent.com/arjunnairp/Kctl/main/Kalias.sh
